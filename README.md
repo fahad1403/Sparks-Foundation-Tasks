@@ -1,2 +1,2 @@
 # Sparks-Foundation-Tasks
-This repository contains task assigned in the internship
+This repository contains tasks assigned in the internship
